@@ -1,0 +1,33 @@
+# Resources of Intro to HTML and CSS class
+
+## Reference
+* ####[HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* ####[HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* ####[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* ####[Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+* ####[CSS frameworks](http://en.wikipedia.org/wiki/CSS_frameworks)
+
+## Additional Reading
+* ####[Article on CSS selectors](http://css-tricks.com/how-css-selectors-work/)
+* ####[Article on flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+
+## Utilities
+### Verifying HTML and CSS
+* ####[verify HTML](http://validator.w3.org/#validate_by_input)
+* ####[verify CSS]( http://jigsaw.w3.org/css-validator/#validate_by_input)
+
+### Image Placeholders
+* ####[placehold.it](http://placehold.it/)
+* ####[placekitten.com](http://placekitten.com/)
+* ####[google fonts](http://www.google.com/fonts)
+
+### CSS minifier
+* ####[cssminifier](http://cssminifier.com/. )
+* **Note**: You can also use a more advanced and automated workflow where CSS files get minimized automatically, for example using a plugin for your code editor or a build system like [Gruntjs](http://gruntjs.com/).
+
+### Frameworks
+* ####[Bootstrap](http://getbootstrap.com/)
+* ####[Foundation](http://foundation.zurb.com/)
+* ####[Yaml](http://www.yaml.de/)
+* ####[960 Grid](http://960.gs/)
+* ####[Suzy](http://susy.oddbird.net/)
